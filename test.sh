@@ -2,7 +2,7 @@
 #Purpose:testing quotes
 #Version:0
 #Created date:Fri Dec 27 08:00:09 PM IST 2024
-#Modified date:`date`
+#Modified date: today
 #Author:KUMARASWAMY S
 #START#
 
